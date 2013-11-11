@@ -3,6 +3,8 @@
 source 'http://rubygems.org'
 
 gem 'bootstrap-sass',       '~> 3.0.2.1', require: false
+gem 'ejs'
+gem 'eco'
 gem 'middleman',            '~> 3.2.0'
 gem 'middleman-livereload', '~> 3.1.0'
 gem 'slim'
