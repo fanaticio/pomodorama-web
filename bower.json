@@ -1,0 +1,20 @@
+{
+  "name": "pomodorama-web",
+  "version": "0.0.0",
+  "authors": [
+    "Kevin <kevin@koboyz.org>"
+  ],
+  "componentsDirectory": "source/components/",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "marionette": "~1.2.2"
+  }
+}
